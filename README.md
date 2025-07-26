@@ -26,6 +26,20 @@ This is a responsive and interactive website built for our **College Fest** usin
 <img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/37aa7f47-40d0-47de-8425-6413bc771300" />
 <img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/0cfb3d99-1b4a-4284-9da3-2e02408e71ec" />
 
+
+---
+
+## 🙋‍♂️ Developed By
+
+**Uday Kumar Botlagunta**  
+Founder @ WebTides | B.Tech CSE, PACE Institute of Technology and Sciences  
+📧 [udayckumar@gmail.com](mailto:udayckumar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/uday-kumar-0b5564348/)  
+💻 [GitHub](https://github.com/uday0103)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/uday0103)
+
+
 ## 💡 How to Use
 
 1. Clone the repository:

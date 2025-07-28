@@ -1,4 +1,11 @@
 # Srujana2024
+
+## 🚀 Live Demo
+
+🎯 Try out the Srujana2024 in real time! It is Developed for College in real time Registration Process..............✨
+
+🔗 **Frontend** (User Interface):  
+[🌐 Open Live Site](https://srujana-2024.netlify.app/)
 # 🎉 College Fest Website
 
 This is a responsive and interactive website built for our **College Fest** using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The website provides details about the fest, including events, registration, sponsors, gallery, and contact information.
